@@ -22,6 +22,6 @@ public class MemberFormServlet extends HttpServlet {
         res.setContentType("text/html");
         res.setCharacterEncoding("utf-8");
         PrintWriter w = res.getWriter();
-        
+
     }
 }
